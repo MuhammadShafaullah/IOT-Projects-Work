@@ -31,6 +31,7 @@ void setup() {
 }
 
 void loop() {
+ //Reading sensore value serialy from Arduino
   //================================================
   float rom = mySerialn.readStringUntil('\r');
   float obj = mySerialn.readStringUntil('\r');
