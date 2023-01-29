@@ -1,3 +1,8 @@
+08)   (frontend question) In a large project with dozens of components, what would
+you do to ensure scalability?What things do you keep in mind while building a
+component? Finally, Use a third-party or go on with your own solution? How 
+would you decide?
+
 To ensure scalability in a large project with dozens of components, I would consider the following:
 
 Modularity: Break the project down into smaller, more manageable components that canbe 
